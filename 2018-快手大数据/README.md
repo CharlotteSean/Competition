@@ -4,9 +4,12 @@
 https://www.kesci.com/apps/home/competition/5ab8c36a8643e33f5138cba4/content
 
 ## 1. 大佬开源
+[2018中国高校计算机大赛--大数据挑战赛 1-lambda](https://github.com/drop-out/RNN-Active-User-Forecast)  
 [2018中国高校计算机大赛--大数据挑战赛 13-蛇老](https://github.com/luoda888/2018-KUAISHOU-TSINGHUA-Top13-Solutions)  
 [2018中国高校计算机大赛--大数据挑战赛 13-RNN-小狼](https://github.com/totoruo/KuaiShou2018-RANK13-RNN)  
 [复赛B榜20+ 单LGB 0.91228](https://github.com/hellobilllee/ActiveUserPrediction/)  
+[2018中国高校计算机大赛--大数据挑战赛 35-chizhu](https://github.com/chizhu/kuaishou2018)  
+[2018中国高校计算机大数据挑战赛-快手活跃用户预测](https://blog.csdn.net/u014775977/article/details/81705271)  
 [guoday-Github](https://github.com/guoday)
 
 ## 2. 经验帖：
