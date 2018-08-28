@@ -15,7 +15,7 @@
 
 ## [2018-保险反欺诈——5th](https://www.kesci.com/home/competition/5b3603959752f73ec3774e84) 
 2018全球(南京)人工智能应用大赛-人工智能社会保险反欺诈分析
-## [第三届阿里云安全算法挑战赛--55](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afxIkOUp&raceId=231668)
+## [第三届阿里云安全算法挑战赛——55](https://tianchi.aliyun.com/competition/introduction.htm?spm=5176.100066.0.0.6acd33afxIkOUp&raceId=231668)
 阿里云安全算法挑战赛,聚焦恶意文件云检测这一问题
 ## 2018_Tencent
 2018腾讯广告算法大赛，数据，代码经验汇总。
