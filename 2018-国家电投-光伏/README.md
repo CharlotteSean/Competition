@@ -1,5 +1,5 @@
 # 2018年“创客中国”国家点投（光伏数据分析）
-[比赛官网](https://www.datafountain.cn/competitions/303/details)  
+[比赛官网](https://www.datafountain.cn/competitions/303/details) 
 
 ## 赛题任务：
 在分析光伏发电原理的基础上，论证了辐照度、光伏板工作温度等影响光伏输出功率的因素，通过实时监测的光伏板运行状态参数和气象参数建立预测模型，预估光伏电站瞬时发电量，根据光伏电站DCS系统提供的实际发电量数据进行对比分析，验证模型的实际应用价值。 
@@ -40,4 +40,7 @@
 * baseline_V1:最初版本，后面的均是小改动，采用stacking，相比单模型带来明显提升，但是模型并未调参至最佳。
 * baseline_final:提交成绩，最终版。包含多个模型，xgb、lgb、GBDT、NN,未使用stacking；
 
+## 开源：
+* [Data Fountain光伏发电量预测 Top1 开源分享](https://zhuanlan.zhihu.com/p/44755488?utm_source=qq&utm_medium=social&utm_oi=623925402599559168)  
+* [A榜22名 B榜44名](https://github.com/wanlida/2018_diantou_PhotovoltaicPowerStation)
 
