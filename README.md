@@ -3,7 +3,7 @@
 
 |比赛|名次|时间|类型|
 |--|--|--|--|
-|[Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)|银牌|2019-2|文本分类|
+|[QIQC-Quora Insincere Questions Classification](https://www.kaggle.com/c/quora-insincere-questions-classification)|银牌|2019-2|文本分类|
 |[2018华为软挑](http://codecraft.devcloud.huaweicloud.com/)|22th|2018-5|时间序列|
 |[2018-快手大数据](https://www.kesci.com/home/competition/5ab8c36a8643e33f5138cba4)|52th|2018-7|CTR|
 |[2018-国家电投-光伏](https://www.datafountain.cn/competitions/303/details)|55th|2018-9|数据分析-回归|
